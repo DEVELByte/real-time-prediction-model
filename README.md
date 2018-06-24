@@ -1,5 +1,6 @@
 # real-time-prediction-model
-============================================
+--------------------------
+
 This is a demo project to show how to run a PMML model in a spring boot API
 
 Reference for PMML:
