@@ -1,0 +1,17 @@
+target
+dependency-reduced-pom.xml
+bin
+logs
+*.log
+.vagrant
+*.iml
+*.jar
+.idea/
+*.pyc
+.metadata
+.classpath
+.project
+.settings
+.vscode/
+.sts4-cache/
+*.mmdb
